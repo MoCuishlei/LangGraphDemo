@@ -1,0 +1,6 @@
+.env
+repos/
+data/*.xlsx
+__pycache__/
+*.md
+!README.md
